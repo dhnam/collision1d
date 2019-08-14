@@ -13,3 +13,6 @@ check it! It is worth. (Note this is too slow that can't calculate this one prop
 
 # Document?
 Nope. For now. _will someone ever use it? never mind._
+
+# Coefficient of restitution?
+I don't know how _algodoo_ calculates COR with two different 'restitution' factors, but I just multiply them to calculate COR.
