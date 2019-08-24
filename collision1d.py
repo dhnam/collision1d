@@ -137,8 +137,6 @@ class PhysEnv:
         pass
 
     def until_next_collision(self):
-        # TODO : When 3+ things collide, works like 2 things from left collide
-        #        first. Can I fix it?
         while True:
             time_table = []
             for i in range(1, len(self._objs) - 1):
